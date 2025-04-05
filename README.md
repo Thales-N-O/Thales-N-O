@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Thales Nascimento Oliveira 👋</h1>
 
-<!--
-**Thales-N-O/Thales-N-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo..." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThalesNOliveira&show_icons=true&theme=radical" alt="Thales's GitHub Stats" />
+</p>
+
+
+---
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Ciência da Computação**
+- 📚 Estudando atualmente **Express**, **PostgreSQL** e **Vue.js**
+- 📌 Ex-aluno do **Instituto PROA**
+- 🎯 Buscando oportunidades para trabalhar como desenvolvedor júnior ou freelancer
+
+---
+
+### 💼 Habilidades
+
+- 🛠️ **Linguagens & Ferramentas**
+  - JavaScript, HTML5, CSS3
+  - Node.js, Express.js
+  -PostgreSQL, ApiRestful
+  - Vue.js, Web Components
+  - Git & GitHub
+
+- 🧩 **Soft Skills**
+  - Autodidata, disciplinado, organizado
+  - Paciência e boa comunicação
+  - Adaptável e resiliente
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThalesNOliveira&show_icons=true&theme=radical" alt="Thales's GitHub Stats" />
+</p>
+
+---
+
+
+---
+
+
+- 💼 [LinkedIn](www.linkedin.com/in/thales-nascimento-oliveira)
+- 📧 thales.nascimento.oliveira.18@gmail.com 
+
+---
+
+⭐ Obrigado por visitar meu perfil!  

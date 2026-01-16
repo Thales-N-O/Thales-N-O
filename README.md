@@ -8,18 +8,18 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
-- 📚 Estudando atualmente **Express**, **PostgreSQL** e **Vue.js**
+- 📚 Estudando atualmente **Java**, **JavaFX**, **Spring Boot**, **PostgreSQL - PGAdmin4** e **Vue.js**
 - 📌 Ex-aluno do **Instituto PROA**
-- 🎯 Buscando oportunidades para trabalhar como desenvolvedor júnior ou freelancer
+- 🎯 Buscando oportunidades para trabalhar como desenvolvedor
 
 ---
 
 ### 💼 Habilidades
 
 - 🛠️ **Linguagens & Ferramentas**
-  - JavaScript, HTML5, CSS3
-  - Node.js, Express.js
+  - JavaScript, HTML5, CSS3, Node.js
   -PostgreSQL, ApiRestful
+  -Java, Spring Boot, JavaFX
   - Vue.js, Web Components
   - Git & GitHub
 

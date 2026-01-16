@@ -4,15 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo..." alt="Typing SVG" />
 </p>
 
----
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThalesNOliveira&show_icons=true&theme=radical" alt="Thales's GitHub Stats" />
-</p>
-
-
----
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
